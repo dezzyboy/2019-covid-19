@@ -37,19 +37,19 @@
           >
             This site is hosted by Glibx web hosting sponsored by infinitypot :
 
-            <a class="no-decoration" href="https://www.hosting.glibx.com" target="_BLANK"
+            <a class="no-decoration" href="https://hosting.glibx.com" target="_BLANK"
               >Glibx WebHosting</a
             >
 
             -
 
-            <a class="no-decoration" href="https://www.infinitypot.com" target="_BLANK"
+            <a class="no-decoration" href="https://infinitypots.com" target="_BLANK"
               >infinitypot.com</a
             >
 
             -
 
-            <a class="no-decoration" href="https://www.glibx.com" target="_BLANK">Glibx Inc</a>
+            <a class="no-decoration" href="https://glibx.com" target="_BLANK">Glibx Inc</a>
           </v-col>
           <v-col
             cols="12"
