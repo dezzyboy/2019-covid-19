@@ -33,5 +33,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ## Acknowledgments
 - Hat tip to anyone who's module was used
 - Richard Matsen for radius scale calculation
-- Robert A 
+- Robert S 
 - Emmanuel A
