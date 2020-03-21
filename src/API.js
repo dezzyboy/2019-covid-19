@@ -2,9 +2,7 @@ import axios from 'axios';
 
 const http = axios.create({
   baseURL:
-    process.env.NODE_ENV === 'production'
-      ? 'https://api.killcovid-19.org'
-      : 'https://api.killcovid-19.org'
+    process.env.NODE_ENV === 'production' ? 'https://api.killcovid-19.org' : 'http://localhost:3000'
 });
 
 export default {
